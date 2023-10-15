@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roy-ketan&show_icons=true&locale=en&layout=compact" alt="roy-ketan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roy-ketan&show_icons=true&locale=en" alt="roy-ketan" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roy-ketan&" alt="roy-ketan" /></p>
