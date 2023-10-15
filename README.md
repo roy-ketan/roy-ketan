@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [zulip](https://github.com/zulip/zulip)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ketan-roy/](https://www.linkedin.com/in/ketan-roy/)
 
